@@ -1,0 +1,20 @@
+{
+  "name": "web5-app",
+  "version": "1.0.0",
+  "description": "The lessons and app for the web5 classes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web5/api": "^0.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
